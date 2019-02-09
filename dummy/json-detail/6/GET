@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: max-age=14400, public
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Aug 2014 12:01:00 GMT
+
+{
+  "id": 6,
+  "rank": 14,
+  "lng": 63.5848,
+  "lat": 2.1974,
+  "name": "Sherry",
+  "surname": "Olson",
+  "fullname": "Beth Dale",
+  "public": true,
+  "created_at": 1382336817
+}

@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: max-age=14400, public
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Aug 2014 12:01:00 GMT
+
+{
+  "id": 35,
+  "rank": 6,
+  "lng": 69.7782,
+  "lat": 59.4135,
+  "name": "Allison",
+  "surname": "Garrison",
+  "fullname": "Pauline McCarthy",
+  "public": true,
+  "created_at": 1372935964
+}

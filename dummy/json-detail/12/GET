@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: max-age=14400, public
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Aug 2014 12:01:00 GMT
+
+{
+  "id": 12,
+  "rank": 29,
+  "lng": 19.1597,
+  "lat": 46.8569,
+  "name": "Kelly",
+  "surname": "Kirby",
+  "fullname": "Vicki McLaughlin",
+  "public": false,
+  "created_at": 1158999462
+}

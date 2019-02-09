@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: max-age=14400, public
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Aug 2014 12:01:00 GMT
+
+{
+  "id": 24,
+  "rank": 37,
+  "lng": 28.6945,
+  "lat": 13.8581,
+  "name": "Guy",
+  "surname": "Hardy",
+  "fullname": "Neal Ross",
+  "public": true,
+  "created_at": 740875732
+}

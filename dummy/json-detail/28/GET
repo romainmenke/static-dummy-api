@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: max-age=14400, public
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Aug 2014 12:01:00 GMT
+
+{
+  "id": 28,
+  "rank": 36,
+  "lng": 70.1695,
+  "lat": 9.1253,
+  "name": "Megan",
+  "surname": "Dickerson",
+  "fullname": "Alan Pugh",
+  "public": false,
+  "created_at": 1189106606
+}

@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: max-age=14400, public
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Aug 2014 12:01:00 GMT
+
+{
+  "id": 45,
+  "rank": 10,
+  "lng": 71.7164,
+  "lat": 4.9595,
+  "name": "Gretchen",
+  "surname": "Lindsay",
+  "fullname": "Courtney Coley",
+  "public": true,
+  "created_at": 1136499041
+}

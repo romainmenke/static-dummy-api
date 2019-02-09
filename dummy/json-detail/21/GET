@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: max-age=14400, public
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Aug 2014 12:01:00 GMT
+
+{
+  "id": 21,
+  "rank": 22,
+  "lng": 34.1835,
+  "lat": 42.9658,
+  "name": "Linda",
+  "surname": "Sharma",
+  "fullname": "Marian Drake",
+  "public": true,
+  "created_at": 1132478896
+}

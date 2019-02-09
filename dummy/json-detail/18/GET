@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: max-age=14400, public
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Aug 2014 12:01:00 GMT
+
+{
+  "id": 18,
+  "rank": 48,
+  "lng": 28.3901,
+  "lat": 46.1536,
+  "name": "Leon",
+  "surname": "Conway",
+  "fullname": "Julie Goldstein",
+  "public": false,
+  "created_at": 250265195
+}

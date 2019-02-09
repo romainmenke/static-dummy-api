@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: max-age=14400, public
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Aug 2014 12:01:00 GMT
+
+{
+  "id": 32,
+  "rank": 40,
+  "lng": 76.2306,
+  "lat": 25.9893,
+  "name": "Natalie",
+  "surname": "Singleton",
+  "fullname": "Melinda MacDonald",
+  "public": true,
+  "created_at": 456689746
+}

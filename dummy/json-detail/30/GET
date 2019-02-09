@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: max-age=14400, public
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Aug 2014 12:01:00 GMT
+
+{
+  "id": 30,
+  "rank": 9,
+  "lng": 20.9051,
+  "lat": 82.6992,
+  "name": "Vanessa",
+  "surname": "O",
+  "fullname": "Geraldine Watson",
+  "public": false,
+  "created_at": 652594843
+}

@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: max-age=14400, public
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Aug 2014 12:01:00 GMT
+
+{
+  "id": 43,
+  "rank": 9,
+  "lng": 15.7501,
+  "lat": 63.8502,
+  "name": "Crystal",
+  "surname": "Cox",
+  "fullname": "Chris Cannon",
+  "public": false,
+  "created_at": 1130361378
+}

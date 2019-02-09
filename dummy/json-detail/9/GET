@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: max-age=14400, public
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Aug 2014 12:01:00 GMT
+
+{
+  "id": 9,
+  "rank": 29,
+  "lng": 7.7641,
+  "lat": 18.9707,
+  "name": "Bobby",
+  "surname": "MacDonald",
+  "fullname": "Kathleen Boyd",
+  "public": false,
+  "created_at": 1522323173
+}

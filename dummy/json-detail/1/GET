@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: max-age=14400, public
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Aug 2014 12:01:00 GMT
+
+{
+  "id": 1,
+  "rank": 14,
+  "lng": 78.1283,
+  "lat": 12.9644,
+  "name": "Amy",
+  "surname": "Dunlap",
+  "fullname": "Hazel Mann",
+  "public": true,
+  "created_at": 931415715
+}

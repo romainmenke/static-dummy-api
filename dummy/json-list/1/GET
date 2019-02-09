@@ -1,0 +1,232 @@
+HTTP/1.1 200 OK
+Connection: close
+Cache-Control: max-age=14400, public
+Content-Type: application/json; charset=utf-8
+Date: Sat, 16 Aug 2014 12:01:00 GMT
+X-Total-Count: 44
+X-Paged: 1
+
+{
+  "items": [
+    {
+      "id": 1,
+      "rank": 14,
+      "lng": 78.1283,
+      "lat": 12.9644,
+      "name": "Amy",
+      "surname": "Dunlap",
+      "fullname": "Hazel Mann",
+      "public": true,
+      "created_at": 931415715
+    },
+    {
+      "id": 2,
+      "rank": 45,
+      "lng": 52.1468,
+      "lat": 24.262,
+      "name": "Vincent",
+      "surname": "Hendrix",
+      "fullname": "Julia Pearson",
+      "public": true,
+      "created_at": 658944994
+    },
+    {
+      "id": 3,
+      "rank": 23,
+      "lng": 81.8851,
+      "lat": 55.8833,
+      "name": "Eleanor",
+      "surname": "Moore",
+      "fullname": "Vincent Olson",
+      "public": true,
+      "created_at": 516232718
+    },
+    {
+      "id": 4,
+      "rank": 6,
+      "lng": 76.3268,
+      "lat": 54.1586,
+      "name": "Sue",
+      "surname": "Stuart",
+      "fullname": "Karen Aycock",
+      "public": true,
+      "created_at": 128937549
+    },
+    {
+      "id": 5,
+      "rank": 21,
+      "lng": 12.3923,
+      "lat": 69.4596,
+      "name": "Natalie",
+      "surname": "Byrne",
+      "fullname": "Louise Proctor",
+      "public": true,
+      "created_at": 165331779
+    },
+    {
+      "id": 6,
+      "rank": 14,
+      "lng": 63.5848,
+      "lat": 2.1974,
+      "name": "Sherry",
+      "surname": "Olson",
+      "fullname": "Beth Dale",
+      "public": true,
+      "created_at": 1382336817
+    },
+    {
+      "id": 7,
+      "rank": 17,
+      "lng": 6.5398,
+      "lat": 81.9265,
+      "name": "Sara",
+      "surname": "Lindsay",
+      "fullname": "Ted Gilbert",
+      "public": true,
+      "created_at": 1336926099
+    },
+    {
+      "id": 8,
+      "rank": 32,
+      "lng": 50.1019,
+      "lat": 65.2385,
+      "name": "Annie",
+      "surname": "Burton",
+      "fullname": "Ann Wong",
+      "public": false,
+      "created_at": 672232459
+    },
+    {
+      "id": 9,
+      "rank": 29,
+      "lng": 7.7641,
+      "lat": 18.9707,
+      "name": "Bobby",
+      "surname": "MacDonald",
+      "fullname": "Kathleen Boyd",
+      "public": false,
+      "created_at": 1522323173
+    },
+    {
+      "id": 10,
+      "rank": 14,
+      "lng": 71.5947,
+      "lat": 47.437,
+      "name": "Barbara",
+      "surname": "Lehman",
+      "fullname": "Lauren Levine",
+      "public": true,
+      "created_at": 1386785335
+    },
+    {
+      "id": 11,
+      "rank": 6,
+      "lng": 72.4284,
+      "lat": 53.0055,
+      "name": "Helen",
+      "surname": "Hawkins",
+      "fullname": "Lynne Wu",
+      "public": true,
+      "created_at": 789161010
+    },
+    {
+      "id": 12,
+      "rank": 29,
+      "lng": 19.1597,
+      "lat": 46.8569,
+      "name": "Kelly",
+      "surname": "Kirby",
+      "fullname": "Vicki McLaughlin",
+      "public": false,
+      "created_at": 1158999462
+    },
+    {
+      "id": 13,
+      "rank": 40,
+      "lng": 64.4437,
+      "lat": 33.6684,
+      "name": "Alicia",
+      "surname": "Nixon",
+      "fullname": "Tammy Houston",
+      "public": false,
+      "created_at": 797300691
+    },
+    {
+      "id": 14,
+      "rank": 45,
+      "lng": 0.5423,
+      "lat": 49.0318,
+      "name": "Douglas",
+      "surname": "Bowling",
+      "fullname": "Jason Harris",
+      "public": false,
+      "created_at": 111444042
+    },
+    {
+      "id": 15,
+      "rank": 41,
+      "lng": 82.0912,
+      "lat": 55.0454,
+      "name": "Steve",
+      "surname": "Rosenthal",
+      "fullname": "Nicholas Moore",
+      "public": true,
+      "created_at": 108406170
+    },
+    {
+      "id": 16,
+      "rank": 43,
+      "lng": 31.7976,
+      "lat": 63.2528,
+      "name": "Franklin",
+      "surname": "Forrest",
+      "fullname": "Alice Norman",
+      "public": false,
+      "created_at": 422034198
+    },
+    {
+      "id": 17,
+      "rank": 12,
+      "lng": 24.0239,
+      "lat": 14.0148,
+      "name": "Jenny",
+      "surname": "Duke",
+      "fullname": "Jeremy Lam",
+      "public": true,
+      "created_at": 884166860
+    },
+    {
+      "id": 18,
+      "rank": 48,
+      "lng": 28.3901,
+      "lat": 46.1536,
+      "name": "Leon",
+      "surname": "Conway",
+      "fullname": "Julie Goldstein",
+      "public": false,
+      "created_at": 250265195
+    },
+    {
+      "id": 19,
+      "rank": 26,
+      "lng": 35.8505,
+      "lat": 27.897,
+      "name": "Martha",
+      "surname": "Herbert",
+      "fullname": "Glen Davies",
+      "public": false,
+      "created_at": 676276533
+    },
+    {
+      "id": 20,
+      "rank": 14,
+      "lng": 31.2527,
+      "lat": 12.0096,
+      "name": "Peter",
+      "surname": "Wang",
+      "fullname": "Alicia Tyler",
+      "public": true,
+      "created_at": 269127133
+    }
+  ]
+}
